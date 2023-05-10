@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Cruz Marcial</h1>
 <h3 align="center">A passionate frontend developer from South-East Missouri</h3>
-![Header](./github-header-image)
+![Header](./https://github.com/Christian-Cruz-Marcial/Christian-Cruz-Marcial/blob/main/github-header-image.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christian-cruz-marcial&label=Profile%20views&color=0e75b6&style=flat" alt="christian-cruz-marcial" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christian-cruz-marcial" alt="christian-cruz-marcial" /></a> </p>
