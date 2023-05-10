@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Christian Cruz Marcial</h1>
 <h3 align="center">A passionate frontend developer from South-East Missouri</h3>
-
+[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Christian%20Cruz%20Marcial&width=800&height=400)](https://github.com/Akshay090/svg-banners)]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christian-cruz-marcial&label=Profile%20views&color=0e75b6&style=flat" alt="christian-cruz-marcial" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christian-cruz-marcial" alt="christian-cruz-marcial" /></a> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning C#
 
-- 👯 I’m looking to collaborate on **front-end development**
+- 👯 I’m looking to collaborate on frontend development
 
 - 📫 How to reach me **c.cruzmarcial2001@gmail.com**
 
