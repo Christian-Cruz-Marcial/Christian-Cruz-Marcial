@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Christian Cruz Marcial</h1>
-<h3 align="center">A passionate frontend developer from South-East Missouri</h3>
 <img src="https://github.com/Christian-Cruz-Marcial/Christian-Cruz-Marcial/blob/main/github-header-image.png" alt="banner"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christian-cruz-marcial&label=Profile%20views&color=0e75b6&style=flat" alt="christian-cruz-marcial" /> </p>
 
