@@ -1,4 +1,4 @@
-<img src="https://github.com/Christian-Cruz-Marcial/Christian-Cruz-Marcial/blob/main/github-header-image.png" alt="banner"/>
+<img src="https://github.com/Christian-Cruz-Marcial/Christian-Cruz-Marcial/blob/main/github-header.png" alt="banner"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christian-cruz-marcial&label=Profile%20views&color=0e75b6&style=flat" alt="christian-cruz-marcial" /> </p>
 <h1 align="center">About Me</h1>
 <p>Christian is a junior frontend developer from Cape Girardeau, Missouri. His ultimate goal is to become a fullstack developer or a game developer.
