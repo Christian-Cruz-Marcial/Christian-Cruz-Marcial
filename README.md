@@ -10,7 +10,7 @@ Acquiring the computer coding certification from the Carrer and Technology Cente
 now is the perfect time to start building a network of knowledge and contacts in the Tech industy.</p>
 
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Angular
 
 - 👯 I’m looking to collaborate on frontend development
 
