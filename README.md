@@ -7,9 +7,10 @@ As Technology advances and becomes increasingly more involved in our day to day 
 </p>
 <h3>Skills/Experience</h3>
 <ul>
-  <li>Angular(Intermediate/learning)</li>
+  <li>Angular(Intermediate)</li>
   <li>BootStrap(Expert)</li>
-  <li>JavaScript(Expert)</li>
+  <li>JavaScript(Proficent)</li>
+  <li>Web Design(Expert)</li>
 </ul>
 
 - 🌱 I’m currently learning Angular
