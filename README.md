@@ -13,7 +13,7 @@ As Technology advances and becomes increasingly more involved in our day to day 
   <li>Web Design(Expert)</li>
 </ul>
 
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular v16
 
 - 👯 I’m looking to collaborate on frontend development
 
