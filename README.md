@@ -5,10 +5,13 @@
 because it is a amazing creative outlet and I believes that tech is the future. <br>
 As Technology advances and becomes increasingly more involved in our day to day I belive it can help humanity if lead by the next generation of programmers
 </p>
-## Skills/Experience
+<h3>Skills/Experience</h3>
 <ul>
-  <li>Angular</li>
+  <li>Angular(Intermediate/learning)</li>
+  <li>BootStrap(Expert)</li>
+  <li>JavaScript(Expert)</li>
 </ul>
+
 - 🌱 I’m currently learning Angular
 
 - 👯 I’m looking to collaborate on frontend development
