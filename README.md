@@ -1,5 +1,5 @@
 <img src="https://github.com/Christian-Cruz-Marcial/Christian-Cruz-Marcial/blob/main/github-header.png" alt="banner"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christian-cruz-marcial&label=Profile%20views&color=0e75b6&style=flat" alt="christian-cruz-marcial" /> </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian-Cruz-Marcial)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">About Me</h1>
 <p>Hi my name is Christian Cruz, a junior web developer from Missouri. I'm currently attending the Cape Girardeau Carrer & Technology Center to learn Coding and Programming
 because it is a amazing creative outlet and I believes that tech is the future. <br>
