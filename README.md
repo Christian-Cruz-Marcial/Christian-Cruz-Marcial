@@ -1,14 +1,11 @@
 <img src="https://github.com/Christian-Cruz-Marcial/Christian-Cruz-Marcial/blob/main/github-header.png" alt="banner"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christian-cruz-marcial&label=Profile%20views&color=0e75b6&style=flat" alt="christian-cruz-marcial" /> </p>
 <h1 align="center">About Me</h1>
-<p>Christian is a junior frontend developer from Cape Girardeau, Missouri. His ultimate goal is to become a fullstack developer or a game developer.
-To gain experience with coding languages and knowledge of the tech industry he is currently attending the Cape Carrer & Technology Center. He 
-follows the path of computer science because he has been searching for a creative outlet and believes that technology is the future. His end goal for education? 
-Acquiring the computer coding certification from the Carrer and Technology Center and immeadatly jumping into the workforce to get hands-on experience.</p>
+<p>Hi my name is Christian Cruz, a junior web developer from Missouri. I'm currently attending the Cape Girardeau Carrer & Technology Center to learn Coding and Programming
+because it is a amazing creative outlet and I believes that tech is the future. <br>
+As Technology advances and becomes increasingly more involved in our day to day I belive it can help humanity if lead by the next generation of programmers
 
-<p>As of right now christian is a beginner in Information Tech & Programming.</br>What he belives: Coders and Programmers will become a larger part of daily life as technology advances, therefore
-now is the perfect time to start building a network of knowledge and contacts in the Tech industy.</p>
-
+</p>
 
 - 🌱 I’m currently learning Angular
 
